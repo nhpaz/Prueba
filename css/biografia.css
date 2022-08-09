@@ -1,0 +1,27 @@
+.header{
+    
+    background: url(../images/banbic.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 400px   ;
+    background-color: black;
+  
+}
+.header .navbar {
+background-color: transparent !important;}
+
+.text {
+    text-align: center;
+}
+.biot{
+    padding-left: 25%;
+    padding-right: 25%;
+}
+.bio{padding: 30px;}
+
+footer{
+    text-align: center;
+    height: 30%;
+    background:black ;
+    color: beige;
+}
+
