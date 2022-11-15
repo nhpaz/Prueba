@@ -1,0 +1,115 @@
+    .barra {
+        background-color: rgb(42, 219, 219);
+        font-size: large;
+    }
+    
+    .casa-footer {
+        background-color: #333;
+        color: #d6d6d6;
+    }
+    
+    .casa-footer h3 {
+        margin: 20px 0;
+        border-bottom: 1px solid #eee;
+        font-size: 24px;
+        font-weight: 500;
+        padding-bottom: 9px;
+    }
+    
+    .carousel-item {
+        height: 32rem;
+        background: #777;
+        color: #eee;
+    }
+    
+    .container-carousel {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        padding-bottom: 50px;
+    }
+    
+    .overlay-uno {
+        background-image: url(/img/slide_1.jpg);
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        top: 0;
+        background-position: center;
+        background-size: cover;
+    }
+    
+    .overlay-dos {
+        background-image: url(/img/slide_2.jpg);
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        top: 0;
+        background-position: center;
+        background-size: cover;
+    }
+    
+    .overlay-tres {
+        background-image: url(/img/slide_3.jpg);
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        top: 0;
+        background-position: center;
+        background-size: cover;
+    }
+    
+    .divisor-bienvenida {
+        margin: 5rem 0;
+    }
+    
+    .bienvenida {
+        text-align: center;
+    }
+    
+    .img-inf {
+        margin: 15px;
+        max-width: 200px;
+        max-height: 200px;
+    }
+    
+    .infrastructura {
+        background-color: rgb(42, 219, 219);
+    }
+    
+    .infra-contexto {
+        margin: 15px;
+        background-color: #eee;
+        border: 1px solid;
+        border-radius: 5px;
+        border-color: #333;
+    }
+    
+    .infra-contexto h3 {
+        margin: 15px;
+        background-color: #eee;
+    }
+    
+    .hover12 {
+        background: #a6f901;
+    }
+    
+    .hover12 {
+        opacity: 1;
+        -webkit-transition: .3s ease-in-out;
+        transition: .3s ease-in-out;
+    }
+    
+    .hover12:hover {
+        opacity: .5;
+    }
+    
+    .encabezados {
+        margin: 6vh;
+        font-size: 50px;
+        font-weight: 400;
+    }
